@@ -11,7 +11,7 @@ const customFields = {
   copyright: `Created with 💜 in India     |    Copyright © ${new Date().getFullYear()} <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/karandchandi">Karandeep Singh</a>`,
   meta: {
     title: "Let's code",
-    image: '/img/meta.png',
+    image: '/img/kd.png',
     description:
       'AgileTs is a global open source State and Logic Framework, which makes State Management fast, easy and overall fun.',
     color: '#6c69a0',
@@ -57,7 +57,7 @@ const config = {
   baseUrlIssueBanner: false,
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/kd.png',
   organizationName: 'AgileTs',
   projectName: 'agilets',
   themes: ['@docusaurus/theme-live-codeblock'],
@@ -78,7 +78,7 @@ const config = {
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
-    image: '/img/meta.png', // Gets used in Head as Meta Image (og:image)
+    image: '/img/kd.png', // Gets used in Head as Meta Image (og:image)
     prism: {
       theme: require('prism-react-renderer/themes/github'),
       darkTheme: require('prism-react-renderer/themes/dracula'),
@@ -88,7 +88,7 @@ const config = {
       hideOnScroll: true,
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/kd.png',
       },
       items: [
         // left
@@ -152,7 +152,7 @@ const config = {
         {
           label: 'Resume',
           position: 'right',
-          to: 'docs/Karandeep_Singh_Resume.pdf',
+          to: 'docs/instabot',
         },
       ],
     },

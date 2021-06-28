@@ -34,10 +34,10 @@ const Footer: React.FC = () => {
                 alt="AgileTs Logo"
                 height={35}
                 width={35}
-                src="/img/logo.svg"
+                src="/img/kd.png"
                 title={siteConfig.tagline}
               />
-              <div className={styles.BrandText}>AgileTs</div>
+              <div className={styles.BrandText}>Kd Singh</div>
             </div>
             <div className={styles.Tagline}>{siteConfig.tagline}</div>
             <GithubButton
