@@ -12,7 +12,7 @@
   <br>
   🔬 I'm currently studying for a bachelor's's degree in Computer Science at VIT University
   <br>
-  Have a project idea" lets discuss. <a href = mailto:karandchandi@gmail.com target='blank'>karandchandi@gmail.com</a>
+  Have a project idea" lets discuss. <a href = mailto:kdsingh.contact@gmail.com target='blank'>kdsingh.contact@gmail.com</a>
 </p>
 <table>
 		<a align="center" href="https://github.com/cryptus-neoxys">
